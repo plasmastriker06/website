@@ -1,5 +1,5 @@
 ---
-pagetitle: page title for section 2
+pagetitle: Publications
 ---
 
 <div class="navbar">

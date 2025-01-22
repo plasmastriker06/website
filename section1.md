@@ -1,5 +1,5 @@
 ---
-pagetitle: page title for section 1
+pagetitle: CV
 ---
 
 <div class="navbar">
