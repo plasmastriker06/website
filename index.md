@@ -6,9 +6,9 @@ pagetitle: Thomas Edge
 Thomas Edge
 -----------------
 
-| [Your instution](https://more.bham.ac.uk/theoretical-physics/)
-| E-mail: tme813 at bham.ac.uk
+| Ph.D. Student in Theoretical Physics at [University of Birmingham](https://more.bham.ac.uk/theoretical-physics/)
+| Contact: tme813 at bham.ac.uk
 
 \ 
 
-[Section1](section1.html) **~** [Section2](section2.html)
+[Publications](section1.html) **~** [CV](section2.html)
