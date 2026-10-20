@@ -7,7 +7,7 @@ Thomas Edge
 -----------------
 
 | Ph.D. Student in Theoretical Physics at [University of Birmingham](https://more.bham.ac.uk/theoretical-physics/)
-| Contact: tme813 at bham.ac.uk
+| Contact: tme813 [at] bham [dot] ac [dot] uk
 
 \ 
 
