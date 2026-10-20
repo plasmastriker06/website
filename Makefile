@@ -20,7 +20,7 @@ copy_resources:
 
 build/%.html: %.md
 	cat $< > $(TEMPFILE)
-	echo "\n\\ \n\n\\ \n\n***\n\n<span class="footer">*$(STRING1) `stat -c %Y Makefile  | date +'%b %d, %Y'`. $(STRING2)*</span>" >> $(TEMPFILE)
+		printf '\n\n<div class="footer"><em>Last updated on %s. Created using <a href="https://github.com/eakbas/TSPW">TSPW</a> and <a href="https://pandoc.org/">pandoc</a>.</em></div>\n' "$$(date '+%b %d, %Y')" >> "$(TEMPFILE)"
 	pandoc --mathjax -t html5 -s -c $(RESOURCEDIR)/style.css $(TEMPFILE) -o $@
 	rm -f $(TEMPFILE)
 

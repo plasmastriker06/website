@@ -11,4 +11,4 @@ Thomas Edge
 
 \ 
 
-[Publications](section1.html) **~** [CV](section2.html)
+[Publications](section1.html) **~** [Teaching](section2.html) **~**  [CV](section3.html)

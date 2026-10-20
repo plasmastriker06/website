@@ -42,3 +42,15 @@ a:visited{
 .footer {
     font-size: .8em;
 }
+
+body {
+    position: relative;
+}
+
+.footer {
+    position: static;
+    display: block;
+    margin-top: 2rem;
+    max-width: none;
+    text-align: left;
+}
